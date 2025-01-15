@@ -1,1 +1,3 @@
 # Sentiment-Analysis
+This project is a machine learning pipeline for text classification. The main objective is to classify textual data into predefined categories, leveraging natural language processing (NLP) and supervised learning techniques. The project handles class imbalance through data resampling and utilizes logistic regression for the classification task.
+To be updated...
